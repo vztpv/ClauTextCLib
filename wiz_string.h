@@ -5,7 +5,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-#define wiz_string_buffer_size 10
+#define wiz_string_buffer_size 5
 
 struct wiz_string
 {
